@@ -20,3 +20,5 @@ For Windows 10:
 - Should've Google Chrome installed
 - User "Adam" should be configured as a local administrator
 - Firewall should be disabled
+
+More details on Task I: [0xcaretaker.github.io/posts/Automation-on-the-Fly/](https://0xcaretaker.github.io/posts/Automation-on-the-Fly/)
