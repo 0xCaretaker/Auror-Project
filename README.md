@@ -27,7 +27,7 @@ For Windows 10:
 
    or 
 
-   even better you can run `.\packer-build.bat` to run both the packer builds at the same time.(On windows ofc, for Linux you can use `nohup <cmd> &`)
+   Even better if you run `.\packer-build.bat` to run both the packer builds parallely.(On windows ofc, for Linux you can use `nohup <cmd> &`)
 
    which contains:
 	```batch
