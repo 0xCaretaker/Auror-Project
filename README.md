@@ -35,7 +35,7 @@ For Windows 10:
 	start cmd /K "cd Packer\win10 && packer build win10.json"
 	```
    
-   Output:
+   **Output:**
 
    Build will take sometime and should look like this:
    ![Pasted image 20220625172205.png](auror-task1-automation-on-the-fly/packer-build-start.png)
