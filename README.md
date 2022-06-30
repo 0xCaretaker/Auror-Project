@@ -51,4 +51,4 @@ My Vagrant took 38 minutes to set up the environment. Taking it as **~40 mins**.
 
 There it is.. Complete lab from scratch in your fingertips within **60 mins**. 
 
-More details on Task I: [0xcaretaker.github.io/posts/Automation-on-the-Fly/](https://0xcaretaker.github.io/posts/Automation-on-the-Fly/)
+Blog post giving a detailed look for Task I [here](https://0xcaretaker.github.io/posts/Automation-on-the-Fly/).
