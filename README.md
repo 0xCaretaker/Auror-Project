@@ -24,8 +24,11 @@ For Windows 10:
 ### Deployment
 1. Download the ISO files in the main(Auror-Project) directory
 2. Build ISO using packer with `packer build server-2019.json` & `packer build win10.json` 
+
    or 
+
    even better you can run `.\packer-build.bat` to run both the packer builds at the same time.(On windows ofc, for Linux you can use `nohup <cmd> &`)
+
    which contains:
 	```batch
 	start cmd /K "cd Packer\server-2019 && packer build server-2019.json"
@@ -33,10 +36,13 @@ For Windows 10:
 	```
    
    Output:
+
    Build will take sometime and should look like this:
    ![Pasted image 20220625172205.png](auror-task1-automation-on-the-fly/packer-build-start.png)
+
    My build finished in **~20 mins**.
    ![Pasted image 20220625200602.png](auror-task1-automation-on-the-fly/packer-build-end.png)
+
 3. Now, We've to configure the built base images with vagrant to build our environment.
    ```batch
    cd Vagrant && vagrant up
