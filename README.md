@@ -38,10 +38,10 @@ For Windows 10:
    **Output:**
 
    Build will take sometime and should look like this:
-   ![Pasted image 20220625172205.png](images/Auror-Project_Task-I_Automation-on-the-Fly/auror-task1-16.png)
+   ![Pasted image 20220625172205.png](images/Task-I_Automation-on-the-Fly/auror-task1-16.png)
 
    My build finished in **~20 mins**.
-   ![Pasted image 20220625200602.png](images/Auror-Project_Task-I_Automation-on-the-Fly/auror-task1-17.png)
+   ![Pasted image 20220625200602.png](images/Task-I_Automation-on-the-Fly/auror-task1-17.png)
 
 3. Now, We've to configure the built base images with vagrant to build our environment.
    ```batch
